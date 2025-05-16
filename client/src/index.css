@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+*{
+    font-family:"Gill Sans",sans-serif;
+}
+
+::-webkit-scrollbar{
+    display:none;
+}
